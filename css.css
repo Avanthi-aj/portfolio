@@ -96,7 +96,7 @@ section
 }
 
 .logo{
-    margin-left: 40px;
+    margin-left: 100px;
     margin-top: 25px;
     font-size: 2rem;
     color:#269ccc;
@@ -116,13 +116,18 @@ section
 }
 
 #skills{
-    padding-top: 30px;
+   
     display:flex;
     
 }
-.main-skill h4{
+.main-skill p{
         text-align: center;
-        padding: 60px;
+        padding: 10px;
+        padding-top: 70px;
+}
+
+.main-skill h3{
+    padding-top: 60px;
 }
 
 .a{
@@ -139,7 +144,7 @@ section
     list-style: none;
 }
 
-#activities h4{
+#activities h3{
     color: #269ccc;
 
 }
@@ -172,6 +177,6 @@ section
     color: black;
 }
 
- .personal-info h4{
+ .personal-info h3{
     color:#269ccc;
  }
