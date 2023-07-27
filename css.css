@@ -84,6 +84,9 @@ section
     margin: 1rem;
     padding: 20px;
 }
+.ed p{
+    padding-top: 20px;
+}
 
 .edu-title{
     padding-top: 50px;
@@ -123,16 +126,17 @@ section
 .main-skill p{
         text-align: center;
         padding: 10px;
-        padding-top: 70px;
+        padding-top: 10px;
 }
 
 .main-skill h3{
-    padding-top: 60px;
+    padding-top: 50px;
 }
 
 .a{
     width: 100%;
     color: black;
+    padding-top: 30px;
 }
 
 .b ul li a{
