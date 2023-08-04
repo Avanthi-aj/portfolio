@@ -18,7 +18,7 @@ body{
 }
 header{
     margin:0px;
-    background-color:#fef6dd ;
+    background-color:black ;
     height: 100vh;
     background-size: cover;
 }
@@ -31,23 +31,23 @@ header{
 }
 .nav-link ul li a{
     text-decoration: none;
-    color:#269ccc;
+    color:#0ef;
 }
 
 ul li a:hover{
-    text-decoration: underline #269ccc 2px;
-    color:#269ccc;
+    text-decoration: underline #0ef 2px;
+    color: #0ef;
 }
 .b ul li a:hover{
-    text-decoration: underline #269ccc 2px;
-    color:#269ccc;
+    text-decoration: underline #0ef 2px;
+    color:#0ef;
 }
 
 .name h3{
     font-size: 200%;
     word-spacing: 5px;
     letter-spacing: 1.5px; 
-    color:#269ccc; 
+    color:#0ef; 
 }
 .name{
     padding-left: 200px;
@@ -68,12 +68,12 @@ ul li a:hover{
     right: 8%;  
     letter-spacing: 0.5px; 
     display: flex;
-    color: black;
+    color: white;
 }
 section
 {
     margin: 0;
-    background-color: #dcf3d0;
+    background-color: black;
     height: 100vh;
     background-size: cover;
     text-align: center;
@@ -90,31 +90,32 @@ section
 
 .edu-title{
     padding-top: 50px;
-    color: #269ccc;
+    color: #0ef;
 }
 
 .edu{
     display: flex;
     padding-top: 100px;
+    color: white;;
 }
 
 .logo{
     margin-left: 100px;
     margin-top: 25px;
     font-size: 2rem;
-    color:#269ccc;
+    color:#0ef;
     
 }
 
 .fas{
-    color: #269ccc;
+    color:#0ef;
     
 }
 
 #skill{
   
-    color: #269ccc;
-    background-color:#fef6dd;
+    color: #0ef;
+    background-color:black;
 
 }
 
@@ -135,27 +136,29 @@ section
 
 .a{
     width: 100%;
-    color: black;
+    color: white;
     padding-top: 30px;
 }
 
 .b ul li a{
     text-decoration: none;
-    color: black;
+    color:white;
 }
 
 #activities ul{
     list-style: none;
 }
-
+#activities{
+    color: white;
+}
 #activities h3{
-    color: #269ccc;
+    color:#0ef;
 
 }
 
 #about{
-    background-color:#fef6dd;
-    color: black;
+    background-color: black;
+    color:white;
 }
 
 .personal-info{
@@ -178,9 +181,9 @@ section
 
 .personal-info ul a{
     text-decoration: none;
-    color: black;
+    color:white;
 }
 
  .personal-info h3{
-    color:#269ccc;
+    color:#0ef;
  }
